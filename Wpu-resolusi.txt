@@ -1,6 +1,5 @@
 Mmembuat Wpu resolusi
 - konsisten membuat project 2x seminggu
 - membuat platform untuk pengelolaan video
-- membuat forum diskusi 
 - membuat project akhir magang
 - belajar untuk real life experience
